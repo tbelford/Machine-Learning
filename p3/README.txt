@@ -19,4 +19,4 @@ mlp3.ipynb is the recommended file
 mlp3.py is the python file
 
 
-(note: i believe my results can be seen if you just open the mlp3.ipynb file on Github and let it open up there
+(note: i believe my results can be seen if you just open the mlp3.ipynb file on Github and let it open up there)
