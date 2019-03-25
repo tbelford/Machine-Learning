@@ -15,3 +15,5 @@ I strongly recommend using the ipython notebook file on Jupyter or a similar app
 This will allow you to both run all and run only certain portions of the file. 
 If you can't, then simply run the provided python file (but I strongly recommend using Jupyter). 
 
+mlp3.ipynb is the recommended file
+mlp3.py is the python file
