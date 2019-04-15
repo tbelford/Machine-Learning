@@ -1,4 +1,4 @@
-To run my code, I used Carnegie Melon's RL_Simulator found here: 
+To complete this project, I used Carnegie Melon's RL_Simulator found here: 
 https://www.cs.cmu.edu/~awm/rlsim/
 
 I have uploaded the necessary files to my Github page found here:
